@@ -1,0 +1,138 @@
+{
+	"page": [
+	{
+		"page": "Admin_MaintainUsersAndGroups.a5wcmp",
+		"action": "allow",
+		"groups": ""
+	},
+	{
+		"page": "extended_user_information.a5wcmp",
+		"action": "allow",
+		"groups": ""
+	},
+	{
+		"page": "Login.a5wcmp",
+		"action": "allow",
+		"groups": ""
+	},
+	{
+		"page": "MasterUX.a5wcmp",
+		"action": "allow",
+		"groups": ""
+	},
+	{
+		"page": "reset_password.a5wcmp",
+		"action": "allow",
+		"groups": ""
+	},
+	{
+		"page": "ToDoList.a5wcmp",
+		"action": "allow",
+		"groups": ""
+	},
+	{
+		"page": "two_factor_authentication_preferences.a5wcmp",
+		"action": "allow",
+		"groups": ""
+	},
+	{
+		"page": "*.js",
+		"action": "allow",
+		"groups": ""
+	},
+	{
+		"page": "*.css",
+		"action": "allow",
+		"groups": ""
+	},
+	{
+		"page": "*.bmp",
+		"action": "allow",
+		"groups": ""
+	},
+	{
+		"page": "*.jpg",
+		"action": "allow",
+		"groups": ""
+	},
+	{
+		"page": "*.jpeg",
+		"action": "allow",
+		"groups": ""
+	},
+	{
+		"page": "*.gif",
+		"action": "allow",
+		"groups": ""
+	},
+	{
+		"page": "*.ico",
+		"action": "allow",
+		"groups": ""
+	},
+	{
+		"page": "*.png",
+		"action": "allow",
+		"groups": ""
+	},
+	{
+		"page": "*.a5image",
+		"action": "allow",
+		"groups": ""
+	},
+	{
+		"page": "*.woff",
+		"action": "allow",
+		"groups": ""
+	},
+	{
+		"page": "*.ttf",
+		"action": "allow",
+		"groups": ""
+	},
+	{
+		"page": "*.svg",
+		"action": "allow",
+		"groups": ""
+	},
+	{
+		"page": "Insufficientpermission.a5w",
+		"action": "allow",
+		"groups": ""
+	},
+	{
+		"page": "Login.a5w",
+		"action": "allow",
+		"groups": ""
+	},
+	{
+		"page": "UX_masterLayout.a5w",
+		"action": "login",
+		"groups": "986dc0cd3fd04001a288bbeb40ee975f,Admin,230948ae-ad8e-48cb-9f9a-3b2f58fdf68d,Users"
+	},
+	{
+		"page": "extended_user_2.a5wcmp",
+		"action": "allow",
+		"groups": ""
+	},
+	{
+		"page": "Dashboard.a5wcmp",
+		"action": "allow",
+		"groups": ""
+	},
+	{
+		"page": "UserActivity.a5wcmp",
+		"action": "allow",
+		"groups": ""
+	},
+	{
+		"page": "UserInfo.a5wcmp",
+		"action": "allow",
+		"groups": ""
+	},
+	{
+		"page": "robots.txt",
+		"action": "allow",
+		"groups": ""
+	}]
+}

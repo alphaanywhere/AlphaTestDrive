@@ -1,0 +1,16 @@
+A5SaveTimeStamp:20240805174413313
+css:MobBlueMod
+subComponent:Dashboard.a5wcmp
+subComponent:UserActivity.a5wcmp
+subComponent:UserInfo.a5wcmp
+subComponent:two_factor_authentication_preferences.a5wcmp
+subComponent:reset_password.a5wcmp
+subComponent:Admin_MaintainUsersAndGroups.a5wcmp
+subComponent:ToDoList.a5wcmp
+copyfile:{C:\Users\Dave McCormick\OneDrive\Documents\AlphaAnywhere\AlphaTestDrive\AlphaTestDrive\AlphaTestDrive.WebProjects\Default.WebProject\css\A5System\Images\wait.gif}
+copyfile:{C:\Users\Dave McCormick\OneDrive\Documents\AlphaAnywhere\AlphaTestDrive\AlphaTestDrive\AlphaTestDrive.WebProjects\Default.WebProject\css\MobBlueMod\MessageQuestion.png}
+copyfile:{C:\Users\Dave McCormick\OneDrive\Documents\AlphaAnywhere\AlphaTestDrive\AlphaTestDrive\AlphaTestDrive.WebProjects\Default.WebProject\css\MobBlueMod\ListNavSubtle.png}
+copyfile:{C:\Users\Dave McCormick\OneDrive\Documents\AlphaAnywhere\AlphaTestDrive\AlphaTestDrive\AlphaTestDrive.WebProjects\Default.WebProject\css\MobBlueMod\MessageInfo.png}
+copyfile:{C:\Users\Dave McCormick\OneDrive\Documents\AlphaAnywhere\AlphaTestDrive\AlphaTestDrive\AlphaTestDrive.WebProjects\Default.WebProject\css\MobBlueMod\EditError.png}
+copyfile:{C:\Users\Dave McCormick\OneDrive\Documents\AlphaAnywhere\AlphaTestDrive\AlphaTestDrive\AlphaTestDrive.WebProjects\Default.WebProject\css\MobBlueMod\ListNav.png}
+builtinimage_MASTERUX:

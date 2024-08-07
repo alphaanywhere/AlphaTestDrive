@@ -1,0 +1,53 @@
+
+<!DOCTYPE html>
+<html>
+<meta name="generator" content="Alpha Anywhere HTML Editor Version 12 Build 7340-5549">
+<!-- must use in order to make XP Themes render -->
+<meta HTTP-EQUIV="MSThemeCompatible" content="Yes" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+<meta name="apple-mobile-web-app-capable" content="yes" />            
+<head>
+
+<title>Alpha Anywhere Test Drive</title>
+
+<!--You can define a page comment and description that will be displayed in the Web Control Panel. For example-->
+<!-- comment -- comment -->
+<!-- description -- description -->
+
+<%a5
+
+
+Delete tmpl_MASTERUX
+DIM tmpl_MASTERUX as P
+tmpl_MASTERUX = a5w_load_component("masterUX") ''SYSTEM GENERATED COMMENT - PLEASE DO NOT REMOVE (LOAD:masterUX)
+
+'Override settings start -----------------------------------------
+with tmpl_MASTERUX
+.alias = "MASTERUX"
+_dialogFilename = "masterUX"
+end with 
+'Override settings end -----------------------------------------
+
+delete x_MASTERUX
+dim x_MASTERUX as p
+x_MASTERUX = a5w_run_Component(tmpl_MASTERUX) 'SYSTEM GENERATED COMMENT - PLEASE DO NOT REMOVE (RUN:tmpl) (EDIT:masterUX)
+
+?x_MASTERUX.Output.Head.JavaScript
+?x_MASTERUX.Output.Head.CSS_Link
+
+?x_MASTERUX.Output.Head.Title 
+%>
+
+
+
+
+
+</head>
+
+<body class="page">
+
+<%A5 ?x_MASTERUX.Output.Body.Dialog2_HTML %>
+<%A5 ?a5dialogHelper_generateCORSHeaders() %>
+</body></html>

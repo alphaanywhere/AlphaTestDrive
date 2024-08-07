@@ -1,0 +1,1689 @@
+<PubHist<[1]<type="calendaricons">
+<name="calendaricons">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:34:58 23 pm')>
+>
+<[2]<type="folder">
+<name="ExeReportStyles">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/06/2024 11:36:22 49 am')>
+>
+<[3]<type="folder">
+<name="ExeChartStyles">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/06/2024 11:36:22 52 am')>
+>
+<[4]<type="A5WPage">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\insufficientpermission.a5w}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:34:58 57 pm')>
+>
+<[5]<type="A5WPage">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\login.a5w}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:34:58 62 pm')>
+>
+<[6]<type="A5WPage">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\ux_masterlayout.a5w}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:34:58 62 pm')>
+>
+<[7]<type="WebComponent">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\admin_maintainusersandgroups.a5wcmp}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:34:58 82 pm')>
+>
+<[8]<type="WebComponent">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\dashboard.a5wcmp}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/06/2024 10:41:25 04 am')>
+>
+<[9]<type="WebComponent">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\login.a5wcmp}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:34:58 87 pm')>
+>
+<[10]<type="WebComponent">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\masterux.a5wcmp}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/06/2024 10:41:25 14 am')>
+>
+<[11]<type="WebComponent">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\reset_password.a5wcmp}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:34:59 00 pm')>
+>
+<[12]<type="WebComponent">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\todolist.a5wcmp}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/06/2024 10:41:25 26 am')>
+>
+<[13]<type="WebComponent">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\two_factor_authentication_preferences.a5wcmp}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:34:59 11 pm')>
+>
+<[14]<type="WebComponent">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\useractivity.a5wcmp}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:34:59 18 pm')>
+>
+<[15]<type="WebComponent">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\userinfo.a5wcmp}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/06/2024 11:28:06 82 am')>
+>
+<[16]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\css\a5system\default\theme.css}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:34:59 25 pm')>
+>
+<[17]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\css\a5system\genericstyles\default\style.css}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:34:59 25 pm')>
+>
+<[18]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\css\a5system\reportstyles\minimal.css}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:34:59 25 pm')>
+>
+<[19]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\css\a5system\reportstyles\roundedbandedblue.css}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:34:59 26 pm')>
+>
+<[20]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\css\a5system\reportstyles\roundedbandedgray.css}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:34:59 26 pm')>
+>
+<[21]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\css\a5system\reportstyles\roundedbandedolive.css}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:34:59 26 pm')>
+>
+<[22]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\css\a5system\reportstyles\roundedbandedtan.css}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:34:59 28 pm')>
+>
+<[23]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\css\a5system\reportstyles\roundedblue.css}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:34:59 28 pm')>
+>
+<[24]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\css\a5system\reportstyles\roundedgray.css}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:34:59 28 pm')>
+>
+<[25]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\css\a5system\reportstyles\roundedolive.css}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:34:59 28 pm')>
+>
+<[26]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\css\a5system\reportstyles\roundedtan.css}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:34:59 29 pm')>
+>
+<[27]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\css\a5system\reportstyles\squarebanded.css}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:34:59 29 pm')>
+>
+<[28]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\css\a5system\reportstyles\squarebandedblue.css}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:34:59 31 pm')>
+>
+<[29]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\css\a5system\reportstyles\squarebandedgray.css}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:34:59 31 pm')>
+>
+<[30]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\css\a5system\reportstyles\squarebandedolive.css}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:34:59 31 pm')>
+>
+<[31]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\css\a5system\reportstyles\squarebandedtan.css}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:34:59 31 pm')>
+>
+<[32]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\css\a5system\reportstyles\squareblue.css}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:34:59 32 pm')>
+>
+<[33]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\css\a5system\reportstyles\squaregray.css}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:34:59 32 pm')>
+>
+<[34]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\css\a5system\reportstyles\squareolive.css}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:34:59 32 pm')>
+>
+<[35]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\css\a5system\reportstyles\squaretan.css}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:34:59 34 pm')>
+>
+<[36]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\css\a5system\vista\theme.css}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:34:59 34 pm')>
+>
+<[37]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\css\cssicons\font-awesome\css\font-awesome.css}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:34:59 36 pm')>
+>
+<[38]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\css\cssicons\font-awesome\css\font-awesome.min.css}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:34:59 36 pm')>
+>
+<[39]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\css\mobbluemod\style.css}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:34:59 36 pm')>
+>
+<[40]<type="css">
+<name="alpha">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:01 28 pm')>
+>
+<[41]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\pages.securitysettings}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 04 pm')>
+>
+<[42]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\project.securitysettings}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 06 pm')>
+>
+<[43]<type="file">
+<name="{c:\users\dave mccormick\appdata\local\temp\alphaanywhere\p_5284\font_mapping.txt}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/06/2024 11:36:22 70 am')>
+>
+<[44]<type="file">
+<name="{c:\users\dave mccormick\appdata\local\temp\alphaanywhere\p_5284\robots.txt}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/06/2024 11:36:22 70 am')>
+>
+<[45]<type="css">
+<name="a5system">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 06 pm')>
+>
+<[46]<type="css">
+<name="cssicons">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 06 pm')>
+>
+<[47]<type="css">
+<name="mobbluemod">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 06 pm')>
+>
+<[48]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\__livetestsettings.json}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 07 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[49]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\alphatestdrive.db}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/06/2024 11:36:22 71 am')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[50]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\animals.csv}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 09 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[51]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\clouds.gif}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 09 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[52]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\clouds2.gif}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 11 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[53]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\css\a5system\default\theme.js}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 11 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[54]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\css\a5system\default\tree\b.png}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 11 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[55]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\css\a5system\default\tree\bc.png}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 12 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[56]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\css\a5system\default\tree\bcf.png}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 12 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[57]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\css\a5system\default\tree\bcl.png}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 12 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[58]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\css\a5system\default\tree\bo.png}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 12 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[59]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\css\a5system\default\tree\bof.png}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 14 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[60]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\css\a5system\default\tree\bol.png}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 14 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[61]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\css\a5system\default\tree\l.png}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 14 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[62]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\css\a5system\default\tree\lf.png}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 15 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[63]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\css\a5system\default\tree\ll.png}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 15 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[64]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\css\a5system\default\tree\n.png}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 15 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[65]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\css\a5system\genericstyles\default\accordiontitle.png}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 15 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[66]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\css\a5system\genericstyles\default\accordiontitlehover.png}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 17 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[67]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\css\a5system\genericstyles\default\listhighlight.png}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 17 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[68]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\css\a5system\genericstyles\default\listselected.png}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 17 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[69]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\css\a5system\genericstyles\default\tabbandbackground.png}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 17 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[70]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\css\a5system\genericstyles\default\tabbottomselected.png}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 18 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[71]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\css\a5system\genericstyles\default\tableftselected.png}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 18 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[72]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\css\a5system\genericstyles\default\tabrightselected.png}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 20 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[73]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\css\a5system\genericstyles\default\tabtopselected.png}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 23 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[74]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\css\a5system\genericstyles\default\windowbuttongrad.png}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 23 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[75]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\css\a5system\genericstyles\default\windowbuttonsgrad.png}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 23 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[76]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\css\a5system\genericstyles\default\windowmaingrad.png}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 25 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[77]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\css\a5system\genericstyles\default\windowtrans.png}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 25 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[78]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\css\a5system\genericstyles\default\windowtranshighlight.png}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 25 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[79]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\css\a5system\genericstyles\default\windowtranshighlightbottom.png}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 25 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[80]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\css\a5system\images\designmodedropoff.png}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 26 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[81]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\css\a5system\images\designmodedropon.png}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 26 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[82]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\css\a5system\images\designmodeicons.png}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 26 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[83]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\css\a5system\images\designmodeiconshover.png}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 26 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[84]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\css\a5system\images\designmodetip.png}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 28 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[85]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\css\a5system\images\loading.gif}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 28 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[86]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\css\a5system\images\menucheck.png}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 28 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[87]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\css\a5system\images\menuradio.png}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 29 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[88]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\css\a5system\images\resizethumb.gif}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 29 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[89]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\css\a5system\images\spinner1.gif}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 29 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[90]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\css\a5system\images\spinner2.gif}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 29 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[91]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\css\a5system\images\tabclose.png}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 31 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[92]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\css\a5system\images\tabclosehover.png}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 31 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[93]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\css\a5system\images\wait.gif}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 31 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[94]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\css\a5system\vista\theme.js}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 31 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[95]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\css\a5system\vista\tree\bc.png}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 34 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[96]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\css\a5system\vista\tree\bch.png}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 34 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[97]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\css\a5system\vista\tree\bo.png}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 34 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[98]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\css\a5system\vista\tree\boh.png}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 34 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[99]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\css\a5system\vista\tree\n.png}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 36 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[100]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\css\cssicons\font-awesome\fonts\fontawesome-webfont.eot}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 36 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[101]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\css\cssicons\font-awesome\fonts\fontawesome-webfont.svg}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 36 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[102]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\css\cssicons\font-awesome\fonts\fontawesome-webfont.ttf}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 37 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[103]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\css\cssicons\font-awesome\fonts\fontawesome-webfont.woff2}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 37 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[104]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\css\cssicons\font-awesome\fonts\fontawesome-webfont.woff}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 37 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[105]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\css\cssicons\font-awesome\fonts\fontawesome.otf}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 37 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[106]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\css\mobbluemod\buttonddarrow.png}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 39 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[107]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\css\mobbluemod\collapse.png}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 39 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[108]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\css\mobbluemod\ddwinclose.png}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 39 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[109]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\css\mobbluemod\ddwinclosehover.png}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 39 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[110]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\css\mobbluemod\ddwinclosepressed.png}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 39 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[111]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\css\mobbluemod\ddwinresizethumb.png}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 40 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[112]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\css\mobbluemod\dialogrsrowadd.png}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 40 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[113]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\css\mobbluemod\dialogrsrowdelete.png}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 40 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[114]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\css\mobbluemod\dialogrsrowerror.png}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 40 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[115]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\css\mobbluemod\dialogrsrowselected.png}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 42 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[116]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\css\mobbluemod\dpnext.png}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 42 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[117]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\css\mobbluemod\dpprev.png}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 42 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[118]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\css\mobbluemod\editddarrow.png}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 42 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[119]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\css\mobbluemod\editdp.png}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 42 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[120]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\css\mobbluemod\editdtp.png}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 43 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[121]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\css\mobbluemod\editerror.png}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 43 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[122]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\css\mobbluemod\edithelp.png}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 43 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[123]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\css\mobbluemod\editlookup.png}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 43 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[124]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\css\mobbluemod\edittp.png}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 43 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[125]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\css\mobbluemod\expand.png}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 45 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[126]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\css\mobbluemod\gridpagefirst.png}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 45 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[127]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\css\mobbluemod\gridpagefirstdisabled.png}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 45 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[128]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\css\mobbluemod\gridpagelast.png}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 45 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[129]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\css\mobbluemod\gridpagelastdisabled.png}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 47 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[130]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\css\mobbluemod\gridpagenext.png}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 47 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[131]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\css\mobbluemod\gridpagenextdisabled.png}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 47 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[132]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\css\mobbluemod\gridpageprev.png}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 47 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[133]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\css\mobbluemod\gridpageprevdisabled.png}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 47 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[134]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\css\mobbluemod\gridqbemenu.png}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 48 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[135]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\css\mobbluemod\gridqbetoggle.png}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 48 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[136]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\css\mobbluemod\gridrecordcanceledits.png}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 48 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[137]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\css\mobbluemod\gridrecordcanceleditsdisabled.png}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 48 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[138]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\css\mobbluemod\gridrecordclose.png}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 50 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[139]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\css\mobbluemod\gridrecorddelete.png}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 50 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[140]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\css\mobbluemod\gridrecorddeletedisabled.png}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 50 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[141]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\css\mobbluemod\gridrecordfirst.png}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 50 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[142]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\css\mobbluemod\gridrecordfirstdisabled.png}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 50 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[143]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\css\mobbluemod\gridrecordlast.png}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 51 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[144]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\css\mobbluemod\gridrecordlastdisabled.png}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 51 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[145]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\css\mobbluemod\gridrecordnew.png}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 51 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[146]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\css\mobbluemod\gridrecordnewcanceledits.png}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 51 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[147]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\css\mobbluemod\gridrecordnext.png}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 53 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[148]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\css\mobbluemod\gridrecordnextdisabled.png}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 53 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[149]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\css\mobbluemod\gridrecordprev.png}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 53 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[150]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\css\mobbluemod\gridrecordprevdisabled.png}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 53 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[151]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\css\mobbluemod\gridrecordsave.png}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 53 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[152]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\css\mobbluemod\gridrecordsaveandenter.png}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 54 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[153]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\css\mobbluemod\gridrecordsaveandenterdisabled.png}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 54 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[154]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\css\mobbluemod\gridrecordsavedisabled.png}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 54 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[155]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\css\mobbluemod\gridrecordswitchtoedit.png}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 54 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[156]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\css\mobbluemod\gridrecordswitchtoview.png}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 56 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[157]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\css\mobbluemod\gridrow.png}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 56 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[158]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\css\mobbluemod\gridrowcanceledits.png}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 56 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[159]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\css\mobbluemod\gridrowcollapse.png}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 56 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[160]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\css\mobbluemod\gridrowdelete.png}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 57 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[161]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\css\mobbluemod\gridrowedit.png}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 57 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[162]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\css\mobbluemod\gridroweditdisabled.png}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 57 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[163]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\css\mobbluemod\gridrowerror.png}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 57 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[164]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\css\mobbluemod\gridrowexpand.png}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 57 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[165]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\css\mobbluemod\gridrownew.png}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 59 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[166]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\css\mobbluemod\gridrownewselected.png}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 59 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[167]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\css\mobbluemod\gridrowsave.png}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 59 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[168]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\css\mobbluemod\gridrowsavedisabled.png}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 59 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[169]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\css\mobbluemod\gridrowselected.png}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 61 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[170]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\css\mobbluemod\gridrowundoedits.png}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 61 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[171]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\css\mobbluemod\gridrowundoeditsdisabled.png}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 61 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[172]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\css\mobbluemod\gridsearch.png}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 61 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[173]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\css\mobbluemod\gridsearchclear.png}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 61 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[174]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\css\mobbluemod\gridsearchload.png}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 62 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[175]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\css\mobbluemod\gridsearchsave.png}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 62 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[176]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\css\mobbluemod\gridsearchtoggle.png}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 62 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[177]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\css\mobbluemod\gridsortasc.png}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 62 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[178]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\css\mobbluemod\gridsortascdisabled.png}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 62 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[179]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\css\mobbluemod\gridsortdesc.png}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 64 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[180]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\css\mobbluemod\gridsortdescdisabled.png}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 64 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[181]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\css\mobbluemod\listnav.png}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 64 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[182]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\css\mobbluemod\listnavsubtle.png}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 64 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[183]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\css\mobbluemod\menubarhcascade.png}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 65 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[184]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\css\mobbluemod\menubarhcascadedisabled.png}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 65 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[185]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\css\mobbluemod\menubarhcascadehover.png}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 65 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[186]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\css\mobbluemod\menubarhcascadepressed.png}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 65 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[187]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\css\mobbluemod\menubarvcascade.png}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 65 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[188]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\css\mobbluemod\menubarvcascadedisabled.png}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 67 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[189]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\css\mobbluemod\menubarvcascadehover.png}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 67 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[190]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\css\mobbluemod\menubarvcascadepressed.png}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 67 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[191]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\css\mobbluemod\menucascade.png}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 67 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[192]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\css\mobbluemod\menucascadedisabled.png}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 68 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[193]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\css\mobbluemod\menucascadehover.png}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 68 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[194]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\css\mobbluemod\menucheck.png}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 68 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[195]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\css\mobbluemod\menuradio.png}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 68 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[196]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\css\mobbluemod\messageerror.png}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 70 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[197]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\css\mobbluemod\messageinfo.png}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 70 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[198]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\css\mobbluemod\messagequestion.png}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 70 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[199]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\css\mobbluemod\messagewarning.png}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 70 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[200]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\css\mobbluemod\panelleftcollapse.png}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 70 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[201]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\css\mobbluemod\panelleftexpand.png}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 72 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[202]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\css\mobbluemod\panelrightcollapse.png}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 72 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[203]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\css\mobbluemod\panelrightexpand.png}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 72 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[204]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\css\mobbluemod\spinlistshadow.png}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 72 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[205]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\css\mobbluemod\style.dat}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 73 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[206]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\css\mobbluemod\style.json}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 73 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[207]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\css\mobbluemod\style.js}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 73 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[208]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\css\mobbluemod\tabbandclose.png}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 73 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[209]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\css\mobbluemod\tabbandclosehover.png}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 73 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[210]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\css\mobbluemod\tabbandnext.png}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 75 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[211]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\css\mobbluemod\tabbandnextdisabled.png}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 75 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[212]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\css\mobbluemod\tabbandprev.png}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 75 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[213]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\css\mobbluemod\tabbandprevdisabled.png}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 75 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[214]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\css\mobbluemod\tpeditddarrow.png}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 76 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[215]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\css\mobbluemod\treebranchcollapse.png}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 76 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[216]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\css\mobbluemod\treebranchcollapsehover.png}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 76 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[217]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\css\mobbluemod\treebranchexpand.png}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 76 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[218]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\css\mobbluemod\treebranchexpandhover.png}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 76 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[219]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\css\mobbluemod\treenull.png}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 78 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[220]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\css\mobbluemod\wait.gif}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 78 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[221]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\css\mobbluemod\winclose.png}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 78 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[222]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\css\mobbluemod\winclosehover.png}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 78 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[223]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\css\mobbluemod\winclosepressed.png}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 79 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[224]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\css\mobbluemod\winresizethumb.png}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 79 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[225]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\dashboard.jpg}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 79 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[226]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\datagov.png}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 81 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[227]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\datagov.svg}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 81 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[228]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\login.jpg}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 81 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[229]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\loginbackground.jpg}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 81 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[230]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\logo.png}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 82 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[231]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\projectproperties.projectproperties}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 82 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[232]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\readme.md}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 82 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[233]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\readme.txt}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 82 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[234]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\sqllitedb1 - copy}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 84 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[235]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\websecurity_expired.dbf}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 84 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[236]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\websecurity_expired.ddd}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 84 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[237]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\websecurity_expired.ddm}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 84 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[238]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\websecurity_expired.ddx}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 86 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[239]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\websecurity_groups.cdx}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 86 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[240]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\websecurity_groups.dbf}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 86 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[241]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\websecurity_groups.ddd}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 87 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[242]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\websecurity_groups.ddm}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 87 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[243]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\websecurity_groups.ddx}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 87 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[244]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\websecurity_members.cdx}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 87 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[245]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\websecurity_members.dbf}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 89 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[246]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\websecurity_members.ddd}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 89 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[247]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\websecurity_members.ddm}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 89 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[248]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\websecurity_members.ddx}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 89 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[249]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\websecurity_users.cdx}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 90 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[250]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\websecurity_users.dbf}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 90 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[251]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\websecurity_users.ddd}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 90 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[252]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\websecurity_users.ddm}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 90 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[253]<type="file">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\websecurity_users.ddx}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/05/2024 05:35:02 92 pm')>
+<project="Default">
+<profile="Local Webroot">
+>
+<[254]<type="WebComponent">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\userinfobak.a5wcmp}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/06/2024 10:41:25 40 am')>
+>
+<[255]<type="WebComponent">
+<name="{c:\users\dave mccormick\onedrive\documents\alphaanywhere\alphatestdrive\alphatestdrive\alphatestdrive.webprojects\default.webproject\userinfonew2.a5wcmp}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('08/06/2024 11:27:15 43 am')>
+>
+>
+<connectionStringCRC=4294958144>

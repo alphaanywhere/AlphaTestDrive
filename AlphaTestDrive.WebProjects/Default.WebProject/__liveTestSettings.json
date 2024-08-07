@@ -1,0 +1,6 @@
+{
+	"devserver": true,
+	"iis": false,
+	"alphacloud": false,
+	"subfolder": ""
+}

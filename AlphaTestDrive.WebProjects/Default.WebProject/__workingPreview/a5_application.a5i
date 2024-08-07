@@ -1,0 +1,355 @@
+<%A5
+'This part of the .A5I page is generated dynamically based on the Application Variables, 
+'Aliases and Connection Strings specified in the Profile that was selected when the Web project was published.
+
+'Note about Application Variables
+'Because the Application Variables are dimmed as Global, they can be seen inside all functions
+'in the code contained in an .A5W page
+
+
+'----------------------------------Application Variables ----------------------------------------------------------------------
+'No Application Variables have been defined
+
+'---------------------------------------------------Aliases --------------------------------
+
+Dim _aliases_ as c
+_aliases_ = <<%txt%
+[PathAlias.ADB_Path]|C:\Users\Dave McCormick\OneDrive\Documents\AlphaAnywhere\AlphaTestDrive\AlphaTestDrive
+%txt%
+
+'Creates a global collection called '_A5_Aliases' 
+'At run-time, your Xbasic scripts can lookup an alias as follows:
+'myAlias = _A5_Aliases.get("myAliasName")
+DIM global _A5_Aliases as U
+_A5_Aliases = makeAliasCollection(_aliases_)
+
+'----------------------------------------Named Storage Connection Strings -----------------------------------
+Dim _Storage_ConnectionStrings as c 
+_Storage_ConnectionStrings = <<%str%
+
+%str%
+
+'Load the storage connection strings into memory
+dim gv as p 
+gv = global_variables()
+loadConnectionStrings(gv, _Storage_ConnectionStrings, "Storage")
+
+'At run-time, your Xbasic scripts can lookup a storage connection string as follows:
+'myStorageConnectionString = a5_getNamedStorageConnection("myStorageConnectionStringName")
+
+
+'----------------------------------------Named SQL Server Reporting Services (SSRS) Connection Strings -----------------------------------
+
+Dim _SSRS_ConnectionStrings as c 
+_SSRS_ConnectionStrings = <<%str%
+
+%str%
+
+'Load the SSRS connection strings into memory
+dim gv as p 
+gv = global_variables()
+loadConnectionStrings(gv, _SSRS_ConnectionStrings, "SSRS")
+
+'At run-time, your Xbasic scripts can lookup a SSRS connection string as follows:
+'mySSRSConnectionString = a5_getNamedSSRSConnection("mySSRSConnectionStringName")
+
+
+'-----------------------------------AlphaDAO Connection Strings ----------------------------------------------------------
+'This is a CR-LF delimited list of AlphaDAO connection strings.
+'Connection strings are encrypted. If you want to edit a connection string shown here, you can enter
+'an unencrypted connection string by ommitting the 'Encrypted:' prefix.
+
+Dim _AlphaDAO_ConnectionStrings as c 
+_AlphaDAO_ConnectionStrings = <<%txt%
+Conn|Encrypted:zbAFQLfEVn2XI3z1BfGgRJFYIeGAL3jdiQhQcz1LLisv53IDqALL4mNis27vMe6EjsE5xFyJw7VUdSjeU9lfFBXE9buimj0YxIZlVRvAVd5m8qZBCBuxlfK1yXdlBuX3l1xf9iYbpoOJ6ZidA/AevKw+LkTa9VXhQ4+L4LZAvCTgdvLj9qj8Z9vM1G1F+XnwhPRCnM0FJv7rKvYgZJ3l8nfe+GOwJIyn4NCxoJJvB+BGXB8VNP4dxQ==
+%txt%
+
+'Create a global collection called '_A5_AlphaDAO_ConnectionStrings'
+'At run-time, your Xbasic scripts can lookup a connection string as follows:
+'myConnectionString = _A5_AlphaDAO_ConnectionStrings.get("myConnectionStringName")
+
+DIM global _A5_AlphaDAO_ConnectionStrings as U
+dim gv as p 
+gv = global_variables()
+_A5_AlphaDAO_ConnectionStrings = loadConnectionStrings(gv, _AlphaDAO_ConnectionStrings, "AlphaDAO")
+
+'-----------------------------------ADO Connection Strings ----------------------------------------------------------
+'This is a CR-LF delimited list of ADO connection strings.
+'Connection strings are encrypted. If you want to edit a connection string shown here, you can enter
+'an unencrypted connection string by ommitting the 'Encrypted:' prefix.
+
+Dim _ADO_ConnectionStrings as c 
+_ADO_ConnectionStrings = <<%txt%
+
+%txt%
+
+'Create a global collection called '_A5_ADO_ConnectionStrings'
+'At run-time, your Xbasic scripts can lookup a connection string as follows:
+'myConnectionString = _A5_ADO_ConnectionStrings.get("myConnectionStringName")
+
+DIM global _A5_ADO_ConnectionStrings as U
+dim gv as p 
+gv = global_variables()
+_A5_ADO_ConnectionStrings = loadConnectionStrings(gv, _ADO_ConnectionStrings, "ADO")
+
+
+
+'-----------------------------------Web Project Properties ----------------------------------------------------------
+'This code loads Project Properties. At runtime, your Xbasic code can read Project Properties as follows:
+'dim projProp as p
+'projProp = a5_getWebProjectProperties()
+
+
+dim _webProjectProperties as c 
+_webProjectProperties = <<%txt%
+DIM extendedUserInfo as P
+DIM extendedUserInfo.connectionstring as C = "::Name::Conn"
+DIM extendedUserInfo.tableName as C = "AASystemTable_ExtendedUserInfo"
+DIM extendedUserInfo.userIdField as C = "UserId"
+DIM extendedUserInfo.tableType as C = "SQL"
+DIM extendedUserInfo.fieldmap as C
+DIM activeUsers as P
+DIM activeUsers.connectionstring as C = "::Name::Conn"
+DIM activeUsers.tableName as C = "AASystemTable_ActiveUsers"
+DIM activeUsers.tableType as C = "SQL"
+DIM activeUsers.fieldMap as C
+DIM activeUsers.maxDays as N = 3
+DIM aexFiles as P
+DIM aexFiles.fileNames as C
+DIM fileDownload as P
+DIM fileDownload.allowedFilenamePatterns as C = "*.xls*,*.pdf,*.jpg,*.jpeg,*.bmp,*.png,*.rtf,*.zip"
+DIM fileDownload.allowedFolderPatterns as C
+DIM fileDownload.blockedFilenamePatterns as C
+DIM reportServer as P
+DIM reportServer.disable as L = .T.
+DIM reportEvents as P
+DIM reportEvents.afterPrint as C
+DIM reportEvents.library as C
+DIM reportEvents.beforePrint as C
+DIM application as P
+DIM application.onAppstart as C
+DIM application.library as C
+DIM defaultFieldEncryptionKey as C
+DIM swapLatLngForMysql as L = .T.
+DIM oauthEvents as P
+DIM oauthEvents.onGotAccessToken as C
+DIM oauthEvents.library as C
+DIM projectStyle as C = "MobBlueMod"
+DIM projectConnectionString as C = "::Name::Conn"
+DIM useDirectPdf as L
+DIM usePhantomJStoConvertToPDF as L = .T.
+DIM useMicrosoftXPSPrinterForPDF as L
+DIM useBSONforSQLreporting as L = .T.
+DIM convertXPSToPDF as L = .T.
+DIM directtopdf as L = .T.
+DIM PDFPrintTimeout as N
+DIM PDFOptions as C
+DIM PDFPrintTimeoutMessage as C
+DIM PDFMaxPages as N = 1000
+DIM HTMLReportOffload as L
+DIM jsLibraries as P
+DIM jsLibraries.jQueryCore as C = "None"
+DIM jsLibraries.jQueryUI as C = "None"
+DIM jsLibraries.links as C
+DIM jsLibraries.vuejs as C = "None"
+DIM jsLibraries.includeImageGallery as L
+DIM jsLibraries.includeGoogleJSAPI as L
+DIM jsLibraries.includejitsimeet as L
+DIM jsLibraries.includeCKEdit as L
+DIM jsLibraries.jQueryCoreVersion as C = "1.6.2"
+DIM jsLibraries.jQueryUIVersion as C = "1.8.16"
+DIM jsLibraries.cordova as P
+DIM jsLibraries.cordova.loadFrom as C = "BuiltIn"
+DIM xbLibraries as P
+DIM xbLibraries.links as C
+DIM cssLibraries as P
+DIM cssLibraries.links as C
+DIM cssLibraries.jQuery as C = "No Theme"
+DIM protocol as C = "https:"
+DIM excelfilesExtension as C = ".xls"
+DIM initializationJavascript as C
+DIM templateformatDirectives as C
+DIM deleteOldBackups as L
+DIM maxNumberOfBackups as C
+DIM minNumberOfBackups as C
+DIM deleteIfOlderThanDays as C
+DIM googleMapsAPIKey as C
+DIM googleStaticMapsAPIKey as C
+DIM useHTTPSforStaicMaps as L
+DIM googleGeocodingAPIKey as C
+DIM NamedResources as C
+DIM security as P
+DIM security.prefix as C = "SEC"
+DIM security.connectionstring as C
+DIM switchYear as C
+DIM datetimeserversideformat as C
+DIM dateserversideformat as C
+DIM websocket as P
+DIM websocket.enable as L
+DIM websocket.longpolling as L
+DIM websocket.port as C
+DIM websocket.using as C = "Simple"
+DIM websocket.redis_url as C
+DIM websocket.redis_host as C
+DIM websocket.redis_port as C
+DIM tfa as P
+DIM tfa.twillioAccountSID as C
+DIM tfa.twillioAuthCode as C
+DIM tfa.twillioPhoneNumber as C
+DIM tfa.twillioMessage as C
+DIM tfa.tokenLife as N = 7200
+DIM tfa.googleAuthenticatorPassword as C = "<user>"
+DIM tfa.googleAuthenticatorIssuer as C = "AlphaAnywhere"
+DIM tfa.email as P
+DIM tfa.email.send_from as C
+DIM tfa.email.send_from_alias as C
+DIM tfa.email.subject as C
+DIM tfa.email.message as C
+DIM tfa.codenotvalidmessage as C = "Code is not valid"
+DIM tfa.authcodetype as C = "Characters"
+DIM tfa.authcodelength as C = "6"
+DIM transform as P
+DIM transform.enable as L
+DIM transform.settingsJSON as C
+DIM debugger as P
+DIM debugger.allow as L
+DIM email as P
+DIM email.smtp_server as C
+DIM email.smtp_username as C
+DIM email.smtp_password as C
+DIM email.smtp_port as C
+DIM email.smtp_SSLOption as C
+DIM email.defaultmethod as C = "Internal"
+DIM email.from as C
+DIM email.from_alias as C
+DIM email.mandrillKey as C
+DIM email.sparkPostKey as C
+DIM email.outbox as P
+DIM email.outbox.tableType as C = "SQL"
+DIM email.outbox.connectionString as C
+DIM email.outbox.tableName as C
+DIM email.outbox.fieldmap as C
+DIM email.outbox.sequenceName as C
+DIM repository as P
+DIM repository.tableType as C = "SQL"
+DIM repository.connectionString as C = "::Name::Conn"
+DIM repository.tableName as C = "AASystemTable_Repository"
+DIM repository.fieldmap as C
+DIM globalSettings as P
+DIM globalSettings.tableType as C = "SQL"
+DIM globalSettings.connectionString as C = "::Name::Conn"
+DIM globalSettings.tableName as C = "AASystemTable_GlobalSettings"
+DIM globalSettings.fieldmap as C
+DIM sqlLog as P
+DIM sqlLog.connectionString as C = "::Name::Conn"
+DIM sqlLog.tableName as C = "AASystemTable_SQLLog"
+DIM sqlLog.fieldmap as C
+DIM sqlLog.maxAge as N = 30
+DIM sqlLog.remoteEnableDisableTableName as C
+DIM sqlLog.tableType as C = "SQL"
+DIM componentSecuritySettings as P
+DIM componentSecuritySettings.tableType as C = "SQL"
+DIM componentSecuritySettings.connectionString as C = "::Name::Conn"
+DIM componentSecuritySettings.tableName as C = "AASystemTable_ComponentSecurity"
+DIM componentSecuritySettings.fieldmap as C
+DIM componentcache as P
+DIM componentcache.tableType as C = "SQL"
+DIM componentcache.connectionString as C
+DIM componentcache.tableName as C
+DIM componentcache.fieldmap as C
+DIM auditTable as P
+DIM auditTable.on as L = .T.
+DIM auditTable.tabletype as C = "SQL"
+DIM auditTable.connectionString as C = "::Name::Conn"
+DIM auditTable.tableName as C = "AASystemTable_Audit"
+DIM auditTable.fieldmap as C
+DIM auditTable.expressionForGettingUserId as C
+DIM workQueue as P
+DIM workQueue.tableType as C = "SQL"
+DIM workQueue.connectionString as C
+DIM workQueue.tableName as C
+DIM workQueue.fieldmap as C
+DIM authenticationKeys as P
+DIM authenticationKeys.tableType as C = "SQL"
+DIM authenticationKeys.connectionString as C
+DIM authenticationKeys.tableName as C
+DIM authenticationKeys.fieldmap as C
+DIM helpTable as P
+DIM helpTable.tableType as C = "SQL"
+DIM helpTable.connectionString as C = "::Name::Conn"
+DIM helpTable.tableName as C = "AASystemTable_Help"
+DIM helpTable.fieldmap as C
+DIM textDictionary as P
+DIM textDictionary.tableType as C = "SQL"
+DIM textDictionary.connectionString as C = "::Name::Conn"
+DIM textDictionary.tableName as C = "AASystemTable_TextDictionary"
+DIM textDictionary.fieldmap as C
+DIM datasynclogtable as P
+DIM datasynclogtable.tableType as C = "SQL"
+DIM datasynclogtable.connectionString as C = "::Name::Conn"
+DIM datasynclogtable.tableName as C = "AASystemTable_SyncLog"
+DIM datasynclogtable.fieldmap as C
+DIM applicationGlobalVariables as C
+DIM calendar as P
+DIM calendar.license as C = "not licensed"
+DIM css as P
+DIM css.webkit as P
+DIM css.webkit.AllowSelectionOfText as L
+DIM stripe as P
+DIM stripe.keysJSON as C
+DIM siteDefaults as P
+DIM siteDefaults.guessedDefaultPage as L = .T.
+DIM siteDefaults.defaultpage as C = "index.a5w"
+DIM siteDefaults.useExternalRedirect as L
+DIM siteDefaults.maxUploadSizeMB as N = 100
+DIM siteDefaults.cookieSameSite as C = "Strict"
+DIM siteDefaults.sessionTimeout as N = 15
+DIM siteDefaults.stackOptions as P
+DIM siteDefaults.stackOptions.enabled as L = .T.
+DIM siteDefaults.stackOptions.sizeInKb as N = 256
+DIM siteDefaults.stackOptions.overrides as C
+DIM siteDefaults.httpsRedirectOptions as P
+DIM siteDefaults.httpsRedirectOptions.enabled as L
+DIM siteDefaults.httpsRedirectOptions.enableStrictTransportSecurity as L = .T.
+DIM siteDefaults.httpsRedirectOptions.includeSubdomains as L
+DIM siteDefaults.httpsRedirectOptions.maxAgeSeconds as N = 31518720
+DIM siteDefaults.httpsRedirectOptions.overrides as C
+DIM siteDefaults.http01ChallengeOptions as P
+DIM siteDefaults.http01ChallengeOptions.enabled as L
+DIM siteDefaults.http01ChallengeOptions.challengeVendor as C = "LetsEncrypt"
+DIM siteDefaults.http01ChallengeOptions.wellknownPath as C = ".well-known\acme-challenge"
+DIM siteDefaults.defaultExtensions as C
+DIM siteDefaults.sessionCookieName as C = "XBasic_SessionId"
+DIM siteDefaults.authenticationCookieName as C = ".ASPXFORMSAUTH"
+DIM siteDefaults.extendAuthenticationCookieOnEachRequest as L
+DIM siteDefaults.executionTimeout as N
+DIM aggressive_cleanup as L
+DIM federatedAuthentication as P
+DIM federatedAuthentication.tableType as C = "SQL"
+DIM federatedAuthentication.connectionString as C
+DIM federatedAuthentication.tableName as C
+DIM federatedAuthentication.fieldmap as C
+DIM responseHeaders as P
+DIM responseHeaders.includeInsecureHeaders as L
+DIM responseHeaders.additionalHeaders as C
+DIM pdfReferenceDevice as C
+DIM __token as C = "ab53b91cf5d043cbb5e587588f6a6adc"
+%txt%
+
+dim gv as p 
+gv = global_variables()
+a5_loadWebProjectProperties(gv,_webProjectProperties)
+
+dim gv.__buildNumberExe__ as n 
+dim gv.__buildNumberAddins__ as n 
+dim gv.__guid as c 
+dim gv.__A5PublishVersion as n 
+gv.__A5PublishTimestamp = 2024252506112548689
+gv.__buildNumberExe__ = 9192
+gv.__buildNumberAddins__ = 5707
+gv.__guid = "2da64320-86ed-4464-8290-f88bcfda491c"
+gv.__control = <<%txtcontrol%
+iWERl+oqQObWxueGU4QkNhDDM2uty8kr
+%txtcontrol%
+
+%>
