@@ -1,11 +1,23 @@
+@font-face {
+font-family: roboto;
+src: url('roboto-regular-webfont.woff') format('woff');
+}
+@font-face {
+font: 700 roboto;
+src: url('roboto-bold-webfont.woff') format('woff');
+}
+@font-face {
+font: italic roboto;
+src: url('roboto-italic-webfont.woff') format('woff');
+}
 .PanelTitle {
-font-size:15px;
-font-weight:bold;
-color:#0056ac;
+color: #0056ac;
+font-size: 15px;
+font-weight: bold;
 }
 .MobBlueModPage {
 color: Black;
-font: 15px Arial;
+font: 15px roboto;
 }
 .MobBlueModHeading {
 font-weight: bold;
@@ -16,7 +28,8 @@ font-weight: bold;
 border-bottom: 1px dotted #4b76b2;
 }
 .MobBlueModLink {
-color: #0e1724;
+color: #0000ff;
+font: 11px roboto;
 }
 .MobBlueModLink:hover {
 text-decoration: none;
@@ -39,7 +52,7 @@ filter: alpha(opacity: 25);
 }
 .MobBlueModEdit {
 background-color: White;
-font: 15px Arial;
+font: 15px roboto;
 border: 1px solid #a7bcd9;
 padding: 6px;
 vertical-align: middle;
@@ -86,7 +99,7 @@ font-style: italic;
 }
 .MobBlueModEditBGSeparator {
 background-color: transparent;
-font: 0pt arial;
+font: 0pt roboto;
 padding: 0px;
 width: 1px;
 }
@@ -109,8 +122,8 @@ padding: 0px 1px;
 background: url('images/a5generated/box/size/1x24/fill/Gradient_Horizontal/.%23188%2c212%2c247/.%23220%2c233%2c251.png.a5image') repeat-x top #dbe8fb;
 }
 .MobBlueModButton {
-background-color:#a8c9ed; 
-font: 15px Arial;
+background-color: #a8c9ed;
+font: 15px roboto;
 border: 1px solid #acc0dc;
 padding: 5px;
 vertical-align: middle;
@@ -121,13 +134,12 @@ border-radius: 3px;
 .MobBlueModButtonT {
 text-shadow: #dedddd 1px 1px;
 background-color: transparent;
-font: 15px Arial;
+font: 15px roboto;
 border-style: none;
 padding: 6px;
 vertical-align: middle;
 }
 .MobBlueModButtonHover, .MobBlueModButtonTHover {
-
 border: 1px solid #5393ec;
 padding: 5px;
 border-radius: 3px;
@@ -147,7 +159,7 @@ color: #547eb8;
 .MobBlueModButtonDD {
 text-shadow: #dedddd 1px 1px;
 background: url('images/a5generated/box/size/1x24/fill/Gradient_Horizontal/.%23240%2c244%2c249/.%23224%2c231%2c242.png.a5image') repeat-x top #e0e7f2;
-font: 15px Arial;
+font: 15px roboto;
 border: 1px solid #acc0dc;
 padding: 0px;
 vertical-align: middle;
@@ -158,14 +170,14 @@ border-radius: 3px;
 .MobBlueModButtonTDD {
 text-shadow: #dedddd 1px 1px;
 background-color: transparent;
-font: 15px Arial;
+font: 15px roboto;
 border-style: none;
 padding: 1px;
 vertical-align: middle;
 }
 .MobBlueModButtonDDHover, .MobBlueModButtonTDDHover {
 background: url('images/a5generated/box/size/1x24/fill/Gradient_Horizontal/.%23241%2c247%2c254/.%23212%2c229%2c251.png.a5image') repeat-x top #d5e5fb;
-border: 1px solid #5393ec;
+border: 1px solid #4f684e;
 padding: 0px;
 border-radius: 3px;
 -webkit-border-radius: 3px;
@@ -223,16 +235,22 @@ border-bottom-right-radius: 2px;
 border-right-style: none;
 margin-right: 0px;
 border-radius: 3px 0px 0px 3px;
+-webkit-border-radius: 3px 0px 0px 3px;
+-moz-border-radius: 3px 0px 0px 3px;
 }
 .MobBlueModButtonGroupHM {
 border-right-style: none;
 margin-left: 0px;
 margin-right: 0px;
 border-radius: 0px;
+-webkit-border-radius: 0px;
+-moz-border-radius: 0px;
 }
 .MobBlueModButtonGroupHL {
 margin-left: 0px;
 border-radius: 0px 3px 3px 0px;
+-webkit-border-radius: 0px 3px 3px 0px;
+-moz-border-radius: 0px 3px 3px 0px;
 }
 .MobBlueModButtonGroupVF {
 border-bottom-style: none;
@@ -240,6 +258,8 @@ margin-bottom: 0px;
 display: block;
 width: 100%;
 border-radius: 3px 3px 0px 0px;
+-webkit-border-radius: 3px 3px 0px 0px;
+-moz-border-radius: 3px 3px 0px 0px;
 }
 .MobBlueModButtonGroupVM {
 border-bottom-style: none;
@@ -248,12 +268,16 @@ margin-bottom: 0px;
 display: block;
 width: 100%;
 border-radius: 0px;
+-webkit-border-radius: 0px;
+-moz-border-radius: 0px;
 }
 .MobBlueModButtonGroupVL {
 margin-top: 0px;
 display: block;
 width: 100%;
 border-radius: 0px 0px 3px 3px;
+-webkit-border-radius: 0px 0px 3px 3px;
+-moz-border-radius: 0px 0px 3px 3px;
 }
 .MobBlueModList {
 border: 1px solid #a7bcd9;
@@ -306,12 +330,14 @@ color: #fefefe;
 background-color: #6c8fc0;
 padding: 2px 10px;
 border-radius: 12px;
+-webkit-border-radius: 12px;
+-moz-border-radius: 12px;
 }
 .MobBlueModListItemContent {
 color: #335079;
 }
 .MobBlueModListTitle {
-background-color:#a8c9ed;
+background-color: #a8c9ed;
 border-top: 1px solid #a7bcd9;
 border-bottom: 1px solid #a7bcd9;
 padding: 5px;
@@ -322,13 +348,13 @@ border-top-style: solid;
 margin: 0px;
 }
 .MobBlueModListHeader {
-background-color:#a8c9ed;
+background-color: #a8c9ed;
 border-top: 1px solid White;
 border-bottom: 1px solid #a7bcd9;
 }
 .MobBlueModListHeaderItem {
 color: #0e1724;
-font: 15px Arial;
+font: 15px roboto;
 padding: 4px;
 cursor: default;
 line-height: 24px;
@@ -397,7 +423,7 @@ text-decoration: none;
 text-shadow: #dedddd 1px 1px;
 color: #0e1724;
 background-color: transparent;
-font: bold 15px Arial;
+font: bold 15px roboto;
 border-style: none;
 padding: 6px 11px;
 display: inline-block;
@@ -633,8 +659,8 @@ color: #6f0000;
 background: url('images/a5generated/box/size/8x8/fill/Up_Diagonal/.%23255%2c218%2c218/.%23255%2c182%2c182.png.a5image') repeat center #ffb6b6;
 }
 .MobBlueModDialogLabel {
+color: #555;
 padding: 2px;
-color:#555;
 }
 .MobBlueModDialogRSHeader {
 }
@@ -882,7 +908,7 @@ border-radius: 3px;
 }
 .MobBlueModWinTitle {
 color: #000;
-background-color:a8c9ed;
+background-color: a8c9ed;
 font-weight: bold;
 border-bottom: 1px solid #466fa8;
 padding: 5px;
@@ -933,9 +959,9 @@ border-left: 10px solid transparent;
 border-right: 10px solid transparent;
 margin-left: -10px;
 left: 50%;
+bottom: -10px;
 width: 0;
 height: 0;
-bottom: -10px;
 }
 .MobBlueModWinPointerUp {
 border-left: 10px solid transparent;
@@ -1023,9 +1049,9 @@ border-left: 10px solid transparent;
 border-right: 10px solid transparent;
 margin-left: -10px;
 left: 50%;
+bottom: -10px;
 width: 0;
 height: 0;
-bottom: -10px;
 }
 .MobBlueModDDWinPointerUp, .MobBlueModMenuPointerUp {
 border-left: 10px solid transparent;
@@ -1059,8 +1085,8 @@ height: 0;
 }
 .MobBlueModPanelHeader {
 color: #fff;
-background-color:#0056ac;
-font: 15px Arial;
+background-color: #0056ac;
+font: 15px roboto;
 border-right: 1px solid #a7bcd9;
 border-bottom: 1px solid #a7bcd9;
 padding: 4px;
@@ -1068,44 +1094,44 @@ line-height: 24px;
 }
 .MobBlueModPanelBody {
 color: Black;
-background-color: #fbfcfe;
-font: 15px Arial;
+background-color: #fff;
+font: 15px roboto;
 border-right: 1px solid #a7bcd9;
 padding: 4px;
 }
 .MobBlueModPanelFooter {
 color: #0e1724;
-font: 15px Arial;
+font: 15px roboto;
 border-top: 1px solid #a8c9ed;
 padding: 4px;
 line-height: 24px;
 }
 .MobBlueModPanelOverlay:before {
-content: '';
+background: rgba(0,0,0,.1);
+border-right: 1px solid #a7bcd9;
 display: block;
 position: absolute;
 top: 0px;
+left: -3px;
 width: 2px;
 height: 100%;
-left: -3px;
-border-right: #a7bcd9 1px solid;
-background: rgba(0,0,0,.1);
+content: '';
 }
 .MobBlueModPanelOverlay:after {
-content: '';
+background: rgba(0,0,0,.1);
+border-left: 1px solid #a7bcd9;
 display: block;
 position: absolute;
 top: 0px;
+right: -3px;
 width: 2px;
 height: 100%;
-right: -3px;
-border-left: #a7bcd9 1px solid;
-background: rgba(0,0,0,.1);
+content: '';
 }
 .MobBlueModPanelTopHeader {
 color: #0e1724;
 background: url('images/a5generated/box/size/1x24/fill/Gradient_Horizontal/.%23223%2c230%2c241/.%23199%2c212%2c230.png.a5image') repeat-x top #c7d4e7;
-font: 15px Arial;
+font: 15px roboto;
 border-right: 1px solid #a7bcd9;
 border-bottom: 1px solid #a7bcd9;
 padding: 4px;
@@ -1114,14 +1140,14 @@ line-height: 24px;
 .MobBlueModPanelTopBody {
 color: Black;
 background-color: #fbfcfe;
-font: 15px Arial;
+font: 15px roboto;
 border-right: 1px solid #a7bcd9;
 padding: 4px;
 }
 .MobBlueModPanelTopFooter {
 color: #0e1724;
 background: url('images/a5generated/box/size/1x24/fill/Gradient_Horizontal/.%23223%2c230%2c241/.%23199%2c212%2c230.png.a5image') repeat-x top #c7d4e7;
-font: 15px Arial;
+font: 15px roboto;
 border-top: 1px solid #a7bcd9;
 border-right: 1px solid #a7bcd9;
 padding: 4px;
@@ -1135,6 +1161,8 @@ display: inline-block;
 width: 10px;
 height: 10px;
 border-radius: 5px;
+-webkit-border-radius: 5px;
+-moz-border-radius: 5px;
 }
 .MobBlueModPanelNavIndButtonSelected {
 background: url('images/a5generated/box/size/1x24/fill/Gradient_Horizontal/.%23241%2c247%2c254/.%23212%2c229%2c251.png.a5image') repeat-x top #d5e5fb;
@@ -1304,9 +1332,7 @@ text-decoration: none;
 white-space: nowrap;
 color: #000;
 background-color: #a8c9ed;
-font-size:15px;
-font-family:arial;
-font-weight:bold;
+font: bold 15px roboto;
 border: 1px solid #a7bcd9;
 border-bottom-style: none;
 padding: 5px;
@@ -1331,9 +1357,7 @@ text-decoration: none;
 white-space: nowrap;
 color: #000;
 background-color: #fbfcfe;
-font-weight: bold;
-font-family:arial;
-font-size:15px;
+font: bold 15px roboto;
 border: 1px solid #a7bcd9;
 border-bottom-style: none;
 padding: 5px;
@@ -1828,7 +1852,7 @@ outline: none;
 }
 .MobBlueModTabbandTSeparator {
 background-color: #fbfcfe;
-font: 0pt arial;
+font: 0pt roboto;
 border-top: 1px solid #a7bcd9;
 padding: 0px;
 height: 3px;
@@ -2020,7 +2044,7 @@ outline: none;
 }
 .MobBlueModTabbandBSeparator {
 background-color: #fbfcfe;
-font: 0pt arial;
+font: 0pt roboto;
 border-bottom: 1px solid #a7bcd9;
 padding: 0px;
 height: 3px;
@@ -2087,20 +2111,20 @@ border-color: #1257b8;
 .MobBlueModSwitch {
 color: Black;
 background-color: White;
-font: 15px Arial;
+font: 15px roboto;
 border: 1px solid #a7bcd9;
 cursor: default;
 height: 28px;
 border-radius: 4px;
 box-shadow: inset 2px 2px 8px #eae9e9;
--webkit-border-radius: 20px;
--moz-border-radius: 20px;
+-webkit-border-radius: 4px;
+-moz-border-radius: 4px;
 -webkit-box-shadow: inset 2px 2px 8px #eae9e9;
 -moz-box-shadow: inset 2px 2px 8px #eae9e9;
 }
 .MobBlueModSwitchOn {
-background-color:#30bf47;
-color:#fff;
+color: #fff;
+background-color: #30bf47;
 box-shadow: none;
 -webkit-box-shadow: none;
 -moz-box-shadow: none;
@@ -2166,9 +2190,12 @@ box-sizing: border-box;
 -moz-box-sizing: border-box;
 -ms-box-sizing: border-box;
 -webkit-box-sizing: border-box;
+-webkit-border-radius: 3px;
+-moz-border-radius: 3px;
 }
 .MobBlueModSpinList:after {
 background-image: url('spinListShadow.png');
+background-size: 100% 100%;
 display: block;
 position: absolute;
 top: 0px;
@@ -2177,10 +2204,11 @@ width: 100%;
 height: 100%;
 border-radius: 1px;
 content: "";
-background-size: 100% 100%;
+-webkit-border-radius: 1px;
+-moz-border-radius: 1px;
 }
 .MobBlueModSpinListItem {
-font: 15px Arial;
+font: 15px roboto;
 padding: 2px;
 }
 .MobBlueModSpinListGroup {
@@ -2189,21 +2217,28 @@ border: 1px solid #a7bcd9;
 padding: 0px;
 overflow: hidden;
 border-radius: 3px;
+-webkit-border-radius: 3px;
+-moz-border-radius: 3px;
 }
 .MobBlueModSpinListGroup .MobBlueModSpinList {
 border-style: none;
 border-right: 1px solid #a7bcd9;
 display: inline-block;
 border-radius: 0px;
+-webkit-border-radius: 0px;
+-moz-border-radius: 0px;
 }
 .MobBlueModSpinListGroup .MobBlueModSpinList:last-child {
 border-style: none;
 }
 .MobBlueModSpinListGroup .MobBlueModSpinList:after {
 border-radius: 0px;
+-webkit-border-radius: 0px;
+-moz-border-radius: 0px;
 }
 .MobBlueModSpinListSelectBand:before {
 background: url('images/a5generated/box/size/1x24/fill/Gradient_Horizontal/.%2383%2c147%2c236/.%2335%2c116%2c230.png.a5image') repeat-x top #2576e7;
+background-size: 100% 100%;
 border-top: 1px solid #1257b8;
 border-bottom: 1px solid #1257b8;
 margin-top: -10px;
@@ -2214,19 +2249,16 @@ left: 0px;
 width: 100%;
 height: 20px;
 content: "";
-background-size: 100% 100%;
 opacity: .5;
 }
 /* Scroller */
 .MobBlueModScroller {
 color: white;
 background-color: rgba(0, 0, 0, 0.05);
-background-image: none;
 cursor: default;
 }
 .MobBlueModScrollerDial {
 background-color: rgba(0, 0, 0, 0.35);
-background-image: none;
 padding: 6px;
 }
 .MobBlueModScrollerSlider {
@@ -2234,13 +2266,11 @@ width: 14px;
 }
 .MobBlueModScrollerSliderHandle {
 background-color: rgba(0, 0, 0, 0.35);
-background-image: none;
 width: 14px;
 height: 40px;
 }
 .MobBlueModScrollerSliderShadow {
 background-color: rgba(0, 0, 0, 0.2);
-background-image: none;
 border-color: rgba(0, 0, 0, 0.2);
 width: 14px;
 height: 40px;
@@ -2253,11 +2283,12 @@ box-sizing: border-box;
 white-space: nowrap;
 color: white;
 background-color: rgba(0, 0, 0, 0.35);
-background-image: none;
 padding: 6px;
 position: absolute;
 right: 20px;
 border-radius: 3px;
+-webkit-border-radius: 3px;
+-moz-border-radius: 3px;
 }
 .MobBlueModScrollerSliderMsgT {
 top: 0px;
@@ -2272,9 +2303,7 @@ right: 0px;
 bottom: 0px;
 }
 .MobBlueModScrollerSliderMsgT:after {
-border-style: solid;
-border-width: 5px;
-border-color: transparent;
+border: 5px solid transparent;
 border-left-color: rgba(0, 0, 0, 0.35);
 display: block;
 position: absolute;
@@ -2283,9 +2312,7 @@ right: -10px;
 content: '';
 }
 .MobBlueModScrollerSliderMsgL:after {
-border-style: solid;
-border-width: 5px;
-border-color: transparent;
+border: 5px solid transparent;
 border-top-color: rgba(0, 0, 0, 0.35);
 display: block;
 position: absolute;
@@ -2294,9 +2321,7 @@ bottom: -10px;
 content: '';
 }
 .MobBlueModScrollerSliderMsgR:after {
-border-style: solid;
-border-width: 5px;
-border-color: transparent;
+border: 5px solid transparent;
 border-top-color: rgba(0, 0, 0, 0.35);
 display: block;
 position: absolute;
@@ -2305,9 +2330,7 @@ bottom: -10px;
 content: '';
 }
 .MobBlueModScrollerSliderMsgB:after {
-border-style: solid;
-border-width: 5px;
-border-color: transparent;
+border: 5px solid transparent;
 border-left-color: rgba(0, 0, 0, 0.35);
 display: block;
 position: absolute;
@@ -2315,7 +2338,6 @@ right: -10px;
 bottom: 7px;
 content: '';
 }
-
 /* Scroll Indicator */
 .MobBlueModScrollIndH, .MobBlueModScrollIndV {
 padding: 0px;

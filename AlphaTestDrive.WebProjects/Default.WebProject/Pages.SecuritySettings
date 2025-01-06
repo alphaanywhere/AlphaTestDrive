@@ -6,11 +6,6 @@
 		"groups": ""
 	},
 	{
-		"page": "extended_user_information.a5wcmp",
-		"action": "allow",
-		"groups": ""
-	},
-	{
 		"page": "Login.a5wcmp",
 		"action": "allow",
 		"groups": ""
@@ -111,11 +106,6 @@
 		"groups": "986dc0cd3fd04001a288bbeb40ee975f,Admin,230948ae-ad8e-48cb-9f9a-3b2f58fdf68d,Users"
 	},
 	{
-		"page": "extended_user_2.a5wcmp",
-		"action": "allow",
-		"groups": ""
-	},
-	{
 		"page": "Dashboard.a5wcmp",
 		"action": "allow",
 		"groups": ""
@@ -127,6 +117,31 @@
 	},
 	{
 		"page": "UserInfo.a5wcmp",
+		"action": "allow",
+		"groups": ""
+	},
+	{
+		"page": "ToDoList_Example.a5wcmp",
+		"action": "allow",
+		"groups": ""
+	},
+	{
+		"page": "ToDo_Example2.a5wcmp",
+		"action": "allow",
+		"groups": ""
+	},
+	{
+		"page": "imageUploadTest.a5wcmp",
+		"action": "allow",
+		"groups": ""
+	},
+	{
+		"page": "TestForm.a5wcmp",
+		"action": "allow",
+		"groups": ""
+	},
+	{
+		"page": "testSpanish.mp3",
 		"action": "allow",
 		"groups": ""
 	},
