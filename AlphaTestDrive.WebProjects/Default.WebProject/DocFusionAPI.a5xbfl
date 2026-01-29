@@ -129,30 +129,30 @@ function DocFusion_GenerateDocument as p (e as p,json_string as c,ClientID as c,
 	ce.setOpt("URL","https://online.docfusion-paas.com/api/DocFusionV2/GenerateDocumentFull")
 	dim jsonDataPayload as c
 	
-	jsonDataPayload = <<%json%
-	{
-	  "Source": "",
-	  "JobReference": "",
-	  "Process": {
-	    "ProcessType": "Process",
-	    "BusinessUnitGuid": "__BusinessUnitGuid__",
-	    "WorkflowProcessGuid" : "__WorkflowProcessGuid__",
-		"TemplateGuid": "__TemplateGuid__",
-	    "ChainGuid": "__ChainGuid__",
-	    "ProcessAsync": false,
-	    "ReturnData": "JSON"
-	  },
-	  "Timeout": "00:01:00",
-	  "Data": {
-	    "DataType": "JSON",
-		"DataProcessor": "",
-	    "Data": "__base64encoded_data__",
-	    "ProcessorProfile": ""
-	  },
-	  "Parameters": { 
-	      "Reference":"Alpha Anywhere Test"}
-	}
-	%json%
+'	jsonDataPayload = <<%json%
+'	{
+'	  "Source": "",
+'	  "JobReference": "",
+'	  "Process": {
+'	    "ProcessType": "Process",
+'	    "BusinessUnitGuid": "__BusinessUnitGuid__",
+'	    "WorkflowProcessGuid" : "__WorkflowProcessGuid__",
+'		"TemplateGuid": "__TemplateGuid__",
+'	    "ChainGuid": "__ChainGuid__",
+'	    "ProcessAsync": false,
+'	    "ReturnData": "JSON"
+'	  },
+'	  "Timeout": "00:01:00",
+'	  "Data": {
+'	    "DataType": "JSON",
+'		"DataProcessor": "",
+'	    "Data": "__base64encoded_data__",
+'	    "ProcessorProfile": ""
+'	  },
+'	  "Parameters": { 
+'	      "Reference":"Alpha Anywhere Test"}
+'	}
+'	%json%
 
 	jsonDataPayload = <<%json%
 	{
