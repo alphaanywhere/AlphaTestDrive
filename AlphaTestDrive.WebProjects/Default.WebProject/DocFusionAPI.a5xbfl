@@ -298,6 +298,261 @@ function system_msgbox AS C (title as C, msg AS C, msg_type AS C )
 	
 end function
 
+function DocFusion_Template_JSON as c (templateGUID as c, e as p)
+	
+	'debug(1)
+	dim conn as SQL::Connection
+	dim rs as SQL::ResultSet
+	dim sql as C
+	dim args as SQL::Arguments
+	
+	dim json_string as c 
+	
+	
+	'KB_Template_1  / Generation Sample Template
+	if templateGUID = "766e0a23-1150-42ec-82c3-d6ffee1acddb" .or. templateGUID = "afd6e39e-0471-4633-b26c-d3da1a9eb47e" then
+		
+		json_string = <<%str%
+			{
+				"Firstname":"__fname__",
+				"Lastname":"__lname__",
+			}
+		%str%
+		
+		args.add("customer_id", e.DATASUBMITTED.CUSTOMERS)
+		sql = <<%str%
+			SELECT 
+				first_name,
+				last_name
+			FROM Customers
+			WHERE customer_id = :customer_id;
+		%str%
+
+		conn.open("::Name::Conn")
+		conn.execute(sql, args)
+		rs = conn.ResultSet
+		json_string = stritran(json_string,"__fname__",rs.data("first_name"))
+		json_string = stritran(json_string,"__lname__",rs.data("last_name"))
+		conn.close()	
+		
+	end if
+	
+	'Order Report
+	if templateGUID = "33e46f6d-dba5-48cb-b965-28f067b5b6af" then
+		
+		json_string = <<%str%
+			{
+				"Firstname":"__fname__",
+				"Lastname":"__lname__",
+				"OrderID":"ORDER___order_id__",
+				"Order_Items":[
+					__order_items__
+					]
+			}
+		%str%
+
+		args.add("customer_id", e.DATASUBMITTED.CUSTOMERS)
+		args.add("order_id", e.DATASUBMITTED.ORDERS)
+		sql = <<%str%
+			SELECT 
+				DISTINCT
+				first_name,
+				last_name,
+				Orders.order_id AS order_id
+			FROM Order_Items
+			LEFT OUTER JOIN Orders ON Orders.order_id = Order_Items.order_id
+			LEFT OUTER JOIN Customers ON Customers.customer_id = Orders.customer_id
+			WHERE Orders.order_id = :order_id AND Customers.customer_id = :customer_id;
+		%str%
+		
+		conn.open("::Name::Conn")
+		conn.execute(sql, args)
+		rs = conn.ResultSet
+		json_string = stritran(json_string,"__fname__",rs.data("first_name"))
+		json_string = stritran(json_string,"__lname__",rs.data("last_name"))
+		json_string = stritran(json_string,"__order_id__",convert_typE(rs.data("order_id"),"c"))
+	
+		delete rs
+		sql = <<%str%
+			SELECT 
+					product_name AS ItemName,
+					quantity AS ItemQty,
+					unit_price AS ItemRate,
+					(quantity * unit_price) AS ItemPrice
+			FROM Order_Items
+			LEFT OUTER JOIN Orders ON Orders.order_id = Order_Items.order_id
+			LEFT OUTER JOIN Customers ON Customers.customer_id = Orders.customer_id
+			WHERE Orders.order_id = :order_id AND Customers.customer_id = :customer_id;
+		%str%
+		conn.execute(sql, args)
+		rs = conn.ResultSet
+		txt = rsToJSON(rs)
+		txt = crlf_to_comma(txt)
+		json_string = stritran(json_string,"__order_items__",txt)
+	
+		conn.close()	
+	
+	end if
+
+	'Customer Report
+	if templateGUID = "45fd7052-2e92-4ab1-b50b-6c353e35d151" then
+		
+		json_string = <<%str%
+			{
+			  "CustomerList": [
+			   __customer_records__
+			  ]
+			}	
+		%str%
+	
+		conn.open("::Name::Conn")
+		delete rs
+		sql = <<%str%
+			SELECT 
+				first_name as Firstname,
+				last_name as Lastname,
+				address as Address,
+				city as City,
+				state as State,
+				zip as Zip
+			FROM Customers
+		%str%
+		conn.execute(sql, args)
+		rs = conn.ResultSet
+		txt = rsToJSON(rs)
+		txt = crlf_to_comma(txt)
+		json_string = stritran(json_string,"__customer_records__",txt)
+	
+		conn.close()	
+	
+	end if	
+
+	'Large Data Model - Test 1
+	if templateGUID = "d4c72c0e-e3dc-48cd-bb73-bafb25232264" then
+		
+		json_string = <<%str%
+			{
+		    "CustomerList": [
+			   __customer_records__
+			  ],
+					"Firstname":"__fname__",
+				"Lastname":"__lname__",
+				"OrderID":"ORDER___order_id__",
+				"Order_Items":[
+					__order_items__
+					],
+		  "SubTotal": "0"
+		}
+		%str%
+	
+		conn.open("::Name::Conn")
+		delete rs
+		sql = <<%str%
+			SELECT 
+				first_name as Firstname,
+				last_name as Lastname,
+				address as Address,
+				city as City,
+				state as State,
+				zip as Zip
+			FROM Customers
+		%str%
+		conn.execute(sql, args)
+		rs = conn.ResultSet
+		txt = rsToJSON(rs)
+		txt = crlf_to_comma(txt)
+		json_string = stritran(json_string,"__customer_records__",txt)
+
+
+		delete rs
+		args.add("customer_id", e.DATASUBMITTED.CUSTOMERS)
+		args.add("order_id", e.DATASUBMITTED.ORDERS)
+		sql = <<%str%
+			SELECT 
+				DISTINCT
+				first_name,
+				last_name,
+				Orders.order_id AS order_id
+			FROM Order_Items
+			LEFT OUTER JOIN Orders ON Orders.order_id = Order_Items.order_id
+			LEFT OUTER JOIN Customers ON Customers.customer_id = Orders.customer_id
+			WHERE Orders.order_id = :order_id AND Customers.customer_id = :customer_id;
+		%str%
+		
+		conn.open("::Name::Conn")
+		conn.execute(sql, args)
+		rs = conn.ResultSet
+		json_string = stritran(json_string,"__fname__",rs.data("first_name"))
+		json_string = stritran(json_string,"__lname__",rs.data("last_name"))
+		json_string = stritran(json_string,"__order_id__",convert_typE(rs.data("order_id"),"c"))
+
+
+		delete rs
+		sql = <<%str%
+			SELECT 
+					product_name AS ItemName,
+					quantity AS ItemQty,
+					unit_price AS ItemRate,
+					(quantity * unit_price) AS ItemPrice
+			FROM Order_Items
+			LEFT OUTER JOIN Orders ON Orders.order_id = Order_Items.order_id
+			LEFT OUTER JOIN Customers ON Customers.customer_id = Orders.customer_id
+			WHERE Orders.order_id = :order_id AND Customers.customer_id = :customer_id;
+		%str%
+		conn.execute(sql, args)
+		rs = conn.ResultSet
+		txt = rsToJSON(rs)
+		txt = crlf_to_comma(txt)
+		json_string = stritran(json_string,"__order_items__",txt)
+
+	
+		conn.close()	
+	
+	end if	
+
+
+	'Large Data Model - Only Customer List
+	if templateGUID = "9b269741-1dae-4e60-8338-d57fc7ed9147" then
+		
+		json_string = <<%str%
+		{
+		    "CustomerList": [
+			   __customer_records__
+			  ],
+				"Firstname":null,
+				"Lastname":null,
+				"OrderID":null,
+				"Order_Items":null,
+		        "SubTotal": "0"
+		}
+		%str%
+	
+		conn.open("::Name::Conn")
+		delete rs
+		sql = <<%str%
+			SELECT 
+				first_name as Firstname,
+				last_name as Lastname,
+				address as Address,
+				city as City,
+				state as State,
+				zip as Zip
+			FROM Customers
+		%str%
+		conn.execute(sql, args)
+		rs = conn.ResultSet
+		txt = rsToJSON(rs)
+		txt = crlf_to_comma(txt)
+		json_string = stritran(json_string,"__customer_records__",txt)
+	
+		conn.close()	
+	
+	end if		
+
+	DocFusion_Template_JSON = json_string
+end function
+
+
 function error_log as v(e as p)
 	
 end function
